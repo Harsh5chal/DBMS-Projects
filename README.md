@@ -1,2 +1,2 @@
 # SQL
-Practice some queries using sql & MySql
+Practice some queries using sql & MySql and ER Daigrams
